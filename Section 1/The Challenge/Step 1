@@ -1,0 +1,13 @@
+The goal is to design a system that will 
+automatically opens the barrier for registered users, 
+tracks the number of cars in the parking lot, 
+displays available parking spots, 
+and alerts when the lot is full and someone tries to enter.
+
+
+Key Requirements:
+
+User authentication (staff/students).
+Real-time car count.
+Display system for available spots.
+Alert mechanism for full capacity.
